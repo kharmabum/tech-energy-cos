@@ -71,7 +71,7 @@
     - Long duration energy storage
 - [Quidnet Energy](http://www.quidnetenergy.com/)
     - Pumped hydro energy storage
-- SunPower
+- [SunPower](https://us.sunpower.com/)
     - Founded 1985
     - San Jose, CA
     - PV design, manufacturing, installation
@@ -88,8 +88,8 @@
     - Solar tracking systems
 - [Bidgely](https://www.bidgely.com)
     - AI-enabled energy disaggregation platform
-- Microsoft
-- IBM
-- Siemans
-- Johnson Controls
-- Honeywell
+- [Microsoft](https://www.microsoft.com/en-us/environment/energy)
+- [IBM](https://www.ibm.com/industries/energy)
+- [Siemans](https://new.siemens.com/global/en/products/energy.html)
+- [Johnson Controls](https://www.johnsoncontrols.com/)
+- [Honeywell](https://www.honeywell.com/en-us/industries/industrial-manufacturing)
