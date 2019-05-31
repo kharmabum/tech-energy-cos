@@ -1,3 +1,9 @@
+- [Camus Energy](https://camus.energy/)
+    - Founded 2019
+    - SF Bay Area
+    - < 10 employees
+    - Distributed energy resource management system and transactive platform.
+
 - [WEAVE Grid](https://www.weavegrid.com/)
     - Founded 2018
     - SF Bay Area
