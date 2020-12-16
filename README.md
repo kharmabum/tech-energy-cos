@@ -1,3 +1,9 @@
+- [Fluence Energy](https://fluenceenergy.com/)
+    - Founded 2017
+    - Virginia HQ, SF Bay Area satellite office
+    - 100s employees
+    - Grid battery manufacturer + digital services (e.g. energy trading platform)
+
 - [Camus Energy](https://camus.energy/)
     - Founded 2019
     - SF Bay Area
