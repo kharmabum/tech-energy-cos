@@ -105,3 +105,8 @@
 - [Siemans](https://new.siemens.com/global/en/products/energy.html)
 - [Johnson Controls](https://www.johnsoncontrols.com/)
 - [Honeywell](https://www.honeywell.com/en-us/industries/industrial-manufacturing)
+
+
+### Related directories
+
+- [SolarXlist](https://solarxlist.org/) — Global solar and energy storage company directory (manufacturers, installers, EPCs, suppliers, distributors), searchable by country, city, and business role.
